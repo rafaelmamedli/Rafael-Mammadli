@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I am Rafael Mammadli</h1>
-<h3 align="center"> I'm a Android Developer</h3>
+<h3 align="center"> I'm an Android Developer</h3>
 
 - 👨‍💻 My Project [https://play.google.com/store/apps/details?id=com.rafael.projectdemo](https://play.google.com/store/apps/details?id=com.rafael.projectdemo)
 
