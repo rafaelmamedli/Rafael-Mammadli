@@ -3,7 +3,7 @@
 
 - 👨‍💻 My Project [https://play.google.com/store/apps/details?id=com.rafael.projectdemo](https://play.google.com/store/apps/details?id=com.rafael.projectdemo)
 
-- 📫 How to reach me **mrafaelcareer@gmail.com**
+- 📫 How to reach me **mrafael.career@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13tRmqOzAcz3xOCp3Loj0HyBkWyPDazx-/view?usp=sharing)
 
